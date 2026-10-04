@@ -1,4 +1,4 @@
-# Anlin (Napert) Li — Personal Academic Website
+# Anlin Li（李岸霖）— Personal Academic Website
 
 Minimal academic personal website prepared for GitHub Pages.
 
@@ -23,4 +23,8 @@ The site includes:
 - `robots.txt`
 - `sitemap.xml`
 
-After the site is live, add `https://nptl1201.github.io/` to Google Search Console and request indexing. Indexing timing is controlled by search engines and may take time.
+Use **Anlin Li** as the primary English name and **李岸霖** as the Chinese name. The visible biography and structured data also identify **Anlin Napert Li** as the same person. Keep these names consistent across the page title, profile, and metadata when editing the site.
+
+After an update is live, inspect `https://nptl1201.github.io/` in Google Search Console and request indexing. Submit `https://nptl1201.github.io/sitemap.xml` if it is not already submitted. Update the sitemap's `lastmod` only when the page actually changes. Preserve the existing Google verification HTML file.
+
+Indexing and search rankings are controlled by search engines. A recrawl may take days to weeks; these changes do not guarantee a particular ranking or immediate inclusion for every name query.
