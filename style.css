@@ -131,6 +131,13 @@ img { display: block; max-width: 100%; }
   letter-spacing: -.025em;
   vertical-align: .17em;
 }
+.chinese-name {
+  margin: 1.25rem 0 0;
+  font-size: clamp(1.6rem, 3vw, 2rem);
+  line-height: 1.4;
+  font-weight: 400;
+  letter-spacing: .12em;
+}
 .small-link {
   font-family: var(--sans);
   font-size: .73rem;
