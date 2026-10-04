@@ -138,6 +138,12 @@ img { display: block; max-width: 100%; }
   font-weight: 400;
   letter-spacing: .12em;
 }
+.name-variants {
+  margin: .65rem 0 0;
+  font-family: var(--sans);
+  font-size: .8rem;
+  color: var(--muted);
+}
 .small-link {
   font-family: var(--sans);
   font-size: .73rem;
